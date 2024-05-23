@@ -39,7 +39,8 @@ SSO 토큰은 사용자 식별 정보를 포함하는 디지털 파일이다. �
 
 > LINE WORKS SSO 참고
 
-![Untitled](https://file.notion.so/f/f/2896369f-ef60-4b3e-85c4-25d1f47c8cd9/d6ee04dd-2df8-450b-836f-0df57c67a5de/Untitled.png?id=698d2fb4-3068-4db9-ab3a-950ab683faf9&table=block&spaceId=2896369f-ef60-4b3e-85c4-25d1f47c8cd9&expirationTimestamp=1716595200000&signature=Q_DVTZBz-I_dU5L17QMK5hzn3mqN9d39lt5AGEOwxUA&downloadName=Untitled.png)
+<img width="500" alt="LINE WORKS SSO 참고" src="https://github.com/simeunseo/TIL/assets/55528304/1f8828d8-efea-42e9-9173-bb42e959fc2b"/>
+
 
 # Makers에 적용하는 SSO 설계안
 
